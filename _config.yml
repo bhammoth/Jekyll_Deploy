@@ -10,10 +10,8 @@ name: Brandon Paul Hammothe
 job: Software Engineer in Test
 location: West Lafayette, IN
 languages: Automated Testing and Biometrics
-#twitter_username: mattcouchman
 github_username:  bhammoth
-#codepen_username:  mattcouchman
-#email_address: some@email.com
+
 
 # Build settings
 markdown: kramdown
